@@ -20,10 +20,10 @@ none
 Build
 --------
 ````bash
-  cd ov;
-  mkdir build;
-  cd build;
-  cmake ../;
-  make;
+  cd ov
+  mkdir build
+  cd build
+  cmake ../
+  make
 ````
   

@@ -1,8 +1,29 @@
-# OV
+OV
+=========
+
+About
+---------
 
 This tiny library is used to compute overlap in molecular modelling softwares. It seems that the author of this code is [Greg Landrum](https://github.com/greglandrum).
 
-## building
+Get this library
+---------
+````bash
+  git clone https://github.com/ma-dubois/ov
+````
 
-to build, justdddd
-ddd
+Dependencies
+---------
+
+none
+
+Build
+--------
+````bash
+  cd ov;
+  mkdir build;
+  cd build;
+  cmake ../;
+  make;
+````
+  
